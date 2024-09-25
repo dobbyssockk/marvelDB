@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/marvelDB/static/js/main.70cdbb9a.js",
+    "static/media/bg.png": "/marvelDB/static/media/bg.9959b24198412bc590b6.png",
+    "static/media/decoration.png": "/marvelDB/static/media/decoration.a0ba4396bc0c081867c2.png",
+    "static/media/error.gif": "/marvelDB/static/media/error.42292aa12b6bc303ce99.gif",
+    "index.html": "/marvelDB/index.html",
+    "main.70cdbb9a.js.map": "/marvelDB/static/js/main.70cdbb9a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.70cdbb9a.js"
+  ]
+}
